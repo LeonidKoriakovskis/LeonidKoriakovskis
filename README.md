@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonidKoriakovskis
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Front End Typescript and AI
+- 👀 I’m interested in Programming
+- TYPESCRIPT/REACT/NEXTJS/POSTGRESQL/MYSQL
 - 📫 How to reach me LinkedIn-https://www.linkedin.com/in/leonid-koriakovskis-029a702b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
